@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aarcher9
+- 👋 Hi, I’m Andrea Agosti
 - 👀 I’m interested in GNU/Linux environments & web developement
 
 <!---
